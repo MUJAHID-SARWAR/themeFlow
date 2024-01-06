@@ -4,7 +4,7 @@ export default function Card() {
       <a href="/">
         <img
           className="p-8 rounded-t-lg"
-          src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-ai-image%2Fclose-up-apple-watch-colorful-surface-with-clock-it-generative-ai_61198457.htm&psig=AOvVaw32uF8pgNOWZH-k3SxKCfeF&ust=1700494184319000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDt5NCw0IIDFQAAAAAdAAAAABAE"
+          src="images/bmj.jpeg"
         />
       </a>
       <div className="px-5 pb-5">
